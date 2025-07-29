@@ -4,25 +4,17 @@ const spinButton = document.getElementById('spinButton');
 const resultDiv = document.getElementById('result');
 
 const segments = [
-    'جائزة 1',
-    'جائزة 2',
-    'جائزة 3',
-    'جائزة 4',
-    'جائزة 5',
-    'جائزة 6',
-    'جائزة 7',
-    'جائزة 8'
+    'جرب تانى ',
+    'قسيمة شراء',
+    'خصم 5%',
+    'جرب تانى ',
 ];
 
 const colors = [
-    '#e74c3c',
-    '#f39c12',
-    '#2ecc71',
-    '#3498db',
-    '#9b59b6',
-    '#1abc9c',
-    '#e67e22',
-    '#34495e'
+    'rgba(77 ,77 ,79,1)',
+    'rgba(196, 156, 108, 1)',
+    'rgba(255 ,204, 177,1)',
+    'rgba(176 ,176 ,180,1)',
 ];
 
 const wheelRadius = wheel.width / 2;
